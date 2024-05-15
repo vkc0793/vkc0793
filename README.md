@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/vadlakarthikchary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vadlakarthikchary" height="30" width="40" /></a>
 <a href="https://twitter.com/karthik_098124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthik_098124" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vadlakarthikchary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vadlakarthikchary" height="30" width="40" /></a>
 <a href="https://instagram.com/imkarthikchary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imkarthikchary" height="30" width="40" /></a>
