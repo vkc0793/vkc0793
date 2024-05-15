@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vadla Karthik Chary</h1>
 <h3 align="center">An Aspiring Data Scientist and Analyst from India</h3>
 
-<p align="left"> <a href="https://linkedin.com/in/vadlakarthikchary" target="blank"><img src="https://img.shields.io/twitter/follow/karthik_098124?logo=twitter&style=for-the-badge" alt="karthik_098124" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/vkc0793](https://github.com/vkc0793)
 
