@@ -3,7 +3,7 @@
 <h3 align="center">An Aspiring Data Scientist and Analyst from India</h3>
 <img align="right" alt="Coding width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
-- 👨‍💻 All of my projects are available at **file:///F:/Odin%20School/my%20portfolio/Portfolio-Website-Template-main/index.html**
+- 👨‍💻 All of my projects are available at https://github.com/vkc0793?tab=repositories
 
 - 📫 How to reach me **vkc0793@gmail.com**
 
